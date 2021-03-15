@@ -7,6 +7,7 @@
 - 👾 I am a php evangelist
 - 🎱 I love creating telegram bots: [Asterios RB bot][asterios], [Repeat Word Bot][repeat], [Currency UA Bot][currency], [Emoji Experts][emoji]
 - 🇺🇦 I live in Kyiv, Ukraine
+- 📝 Also I have Telegram Channel [@response418][channel] (russian)
 - 🎓 Education: Software Architect @ Unit Factory (Ecole 42 Kyiv)
 - ⚡ Fun fact: I started learning to play the piano!
 
@@ -29,7 +30,7 @@
 [repeat]: https://t.me/RepeatWordBot
 [currency]: https://t.me/CurrencyUA_Bot
 [emoji]: https://t.me/emoji_experts_bot
-
+[channel]: https://t.me/response418
 [telegram]: https://t.me/omentes
 [twitter]: https://twitter.com/setnemo
 [instagram]: https://instagram.com/omentes_ua
