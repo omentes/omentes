@@ -17,6 +17,7 @@
 [<img align="left" alt="setnemo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="omentes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="omentes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="omentes | DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
 [<img align="left" alt="omentes | Habr" width="22px" src="http://www.userlogos.org/files/logos/give/Habrahabr1.png" />][habr]
 <br />
 
@@ -36,3 +37,4 @@
 [instagram]: https://instagram.com/omentes_ua
 [linkedin]: https://linkedin.com/in/omentes
 [habr]: https://habr.com/ru/users/setnemo/
+[dev]: https://dev.to/omentes
