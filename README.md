@@ -1,7 +1,7 @@
 ### Hi there, I'm Artem 👋
 
 #### I'm a Backend Developer.
-> Previously: Backend Developer @ WalletFactory, PHP Developer @ HqDev, PHP Developer @ MakeTop
+> Previously: Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ HqDev, PHP Developer @ MakeTop
 
 - 💻 I’m currently searching new opportunities
 - 👾 I am a php evangelist
