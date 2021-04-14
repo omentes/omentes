@@ -1,6 +1,6 @@
 ### Hi there, I'm Artem 👋
 
-#### I'm a Backend Developer at airSlate, Inc.
+#### I'm a Backend Developer.
 > Previously: Backend Developer @ WalletFactory, PHP Developer @ HqDev, PHP Developer @ MakeTop
 
 - 💻 I’m currently searching new opportunities
