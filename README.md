@@ -3,7 +3,7 @@
 #### I'm a Backend Developer at airSlate, Inc.
 > Previously: Backend Developer @ WalletFactory, PHP Developer @ HqDev, PHP Developer @ MakeTop
 
-- 💻 I’m currently working on [signNow](https://signNow.com)
+- 💻 I’m currently searching new opportunities
 - 👾 I am a php evangelist
 - 🎱 I love creating telegram bots: [Asterios RB bot][asterios], [Repeat Word Bot][repeat], [Currency UA Bot][currency], [Emoji Experts][emoji]
 - 🇺🇦 I live in Kyiv, Ukraine
