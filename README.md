@@ -1,6 +1,6 @@
 ### Hi there, I'm Artem 👋
 
-#### I'm a Backend Developer.
+#### I'm a Backend Developer at Digitex.
 > Previously: Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ MakeTop
 
 - 💻 I’m currently searching new opportunities
