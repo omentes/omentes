@@ -3,7 +3,7 @@
 #### I'm a Backend Developer at Digitex.
 > Previously: Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ MakeTop
 
-- 💻 I’m currently searching new opportunities
+- 💻 I’m currently work at Digitex
 - 👾 I am a php evangelist
 - 🎱 I love creating telegram bots: [Asterios RB bot][asterios], [Repeat Word Bot][repeat], [Currency UA Bot][currency], [Emoji Experts][emoji]
 - 🇺🇦 I live in Kyiv, Ukraine
