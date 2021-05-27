@@ -37,4 +37,4 @@
 [instagram]: https://instagram.com/omentes_ua
 [linkedin]: https://linkedin.com/in/omentes
 [habr]: https://habr.com/ru/users/setnemo/
-[dev]: https://dev.to/omentes
+[dev]: https://dev.to/setnemo
