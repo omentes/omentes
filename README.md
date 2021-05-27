@@ -32,7 +32,7 @@
 [currency]: https://t.me/CurrencyUA_Bot
 [emoji]: https://t.me/emoji_experts_bot
 [channel]: https://t.me/response418
-[telegram]: https://t.me/omentes
+[telegram]: https://t.me/setnemo
 [twitter]: https://twitter.com/setnemo
 [instagram]: https://instagram.com/omentes_ua
 [linkedin]: https://linkedin.com/in/omentes
