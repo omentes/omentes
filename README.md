@@ -34,7 +34,7 @@
 [channel]: https://t.me/response418
 [telegram]: https://t.me/setnemo
 [twitter]: https://twitter.com/setnemo
-[instagram]: https://instagram.com/omentes_ua
-[linkedin]: https://linkedin.com/in/omentes
-[habr]: https://habr.com/ru/users/setnemo/
+[instagram]: https://instagram.com/setnemo
+[linkedin]: https://linkedin.com/in/setnemo
+[habr]: https://habr.com/ru/users/setnemo
 [dev]: https://dev.to/setnemo
