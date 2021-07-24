@@ -4,7 +4,7 @@
 > Previously: Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ MakeTop
 
 - 💻 I’m currently work at Digitex
-- 👾 I love proggraming and automation. Even [my cv][cv] created via Github Actions
+- 👾 I love proggraming and automation. Even [my cv][cv] created via [Github Actions][cv_actions]
 - 🎱 I love creating telegram bots: [Asterios RB bot][asterios], [Repeat Word Bot][repeat], [Currency UA Bot][currency], [Emoji Experts][emoji]
 - 🇺🇦 I live in Kyiv, Ukraine
 - 📝 Also I have Telegram Channel [@response418][channel] (russian)
@@ -28,6 +28,7 @@
 
 
 [cv]: https://github.com/setnemo/cv/blob/main/PHP_Pakhomov_CV.pdf
+[cv_actions]: https://github.com/setnemo/cv/blob/main/.github/workflows/main.yml
 [asterios]: https://t.me/AsteriosRBbot
 [repeat]: https://t.me/RepeatWordBot
 [currency]: https://t.me/CurrencyUA_Bot
