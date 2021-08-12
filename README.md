@@ -3,7 +3,7 @@
 #### I'm a Backend Developer at Digitex.
 > Previously: Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ MakeTop
 
-- 💻 I’m currently work at Digitex
+- 💻 I am currently working on [Blockster][blockster] project in Digitex
 - 👾 I love programming and automation. Even [my cv][cv] created with [Github Actions][cv_actions]
 - 🎱 I love creating telegram bots: [Asterios RB bot][asterios], [Repeat Word Bot][repeat], [Currency UA Bot][currency], [Emoji Experts][emoji]
 - 🇺🇦 I live in Kyiv, Ukraine
@@ -26,7 +26,7 @@
 ![](https://github.com/omentes/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/omentes/github-stats/blob/master/generated/languages.svg)
 
-
+[blockster]: https://blockster.com/about-us/
 [cv]: https://github.com/setnemo/cv/blob/main/PHP_Pakhomov_CV.pdf
 [cv_actions]: https://github.com/setnemo/cv/blob/main/.github/workflows/main.yml
 [asterios]: https://t.me/AsteriosRBbot
