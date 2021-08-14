@@ -20,7 +20,7 @@
 [<img align="left" alt="setnemo | Twitter" width="22px" src="twitter.svg" />][twitter]
 [<img align="left" alt="omentes | DEV" width="22px" src="dev.svg" />][dev]
 [<img align="left" alt="omentes | Instagram" width="22px" src="instagram.svg" />][instagram]
-[<img align="left" alt="omentes | Blockster" width="22px" src="bxr.svg" />][blockster]
+[<img align="left" alt="omentes | Blockster" width="22px" src="bxr.svg" />][blockster-artem]
 
 
 [//]: <> (Links section)
@@ -40,4 +40,4 @@
 [twitter]: https://twitter.com/setnemo
 [dev]: https://dev.to/setnemo
 [instagram]: https://instagram.com/setnemo
-[blockster]: https://blockster.com/artem
+[blockster-artem]: https://blockster.com/artem
