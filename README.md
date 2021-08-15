@@ -16,7 +16,7 @@
 [<img align="left" alt="omentes | LinkedIn" width="22px" src="linkedin.svg" />][linkedin]
 [<img align="left" alt="omentes | Telegram" width="22px" src="telegram.svg" />][telegram]
 [<img align="left" alt="omentes | Habr" width="22px" src="habr.svg" />][habr]
-[<img align="left" alt="omentes | Facebook" width="22px" src="fb.svg" />][fb]
+[<img align="left" alt="omentes | Facebook" width="22px" src="facebook.svg" />][fb]
 [<img align="left" alt="setnemo | Twitter" width="22px" src="twitter.svg" />][twitter]
 [<img align="left" alt="omentes | DEV" width="22px" src="dev.svg" />][dev]
 [<img align="left" alt="omentes | Instagram" width="22px" src="instagram.svg" />][instagram]
