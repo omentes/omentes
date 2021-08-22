@@ -25,7 +25,7 @@
 
 [//]: <> (Links section)
 
-[blockster]: https://blockster.com/about-us/
+[blockster]: https://about.blockster.com/
 [cv]: https://github.com/setnemo/cv/blob/main/PHP_Pakhomov_CV.pdf
 [cv_actions]: https://github.com/setnemo/cv/blob/main/.github/workflows/main.yml
 [asterios]: https://t.me/AsteriosRBbot
