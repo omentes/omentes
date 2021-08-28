@@ -1,4 +1,5 @@
-### Hi there, I'm Artem 👋
+# Hi there, I'm Artem 👋 
+## You are expirienced in php? Check my last project - [Asterisk notation for php arrays][asterisk]
 
 #### I'm a Backend Developer at Digitex.
 > Previously: Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ MakeTop
@@ -23,8 +24,13 @@
 [<img align="left" alt="omentes | Blockster" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/bxr.svg" />][blockster-artem]
 
 
+##
+#### Icons from [setnemo/social-svg-icons][icons]
+
+
 [//]: <> (Links section)
 
+[asterisk]: https://github.com/setnemo/asterisk-notation
 [blockster]: https://about.blockster.com/
 [cv]: https://github.com/setnemo/cv/blob/main/PHP_Pakhomov_CV.pdf
 [cv_actions]: https://github.com/setnemo/cv/blob/main/.github/workflows/main.yml
@@ -41,3 +47,4 @@
 [dev]: https://dev.to/setnemo
 [instagram]: https://instagram.com/setnemo
 [blockster-artem]: https://blockster.com/artem
+[icons]: https://github.com/setnemo/social-svg-icons
