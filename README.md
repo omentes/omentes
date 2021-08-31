@@ -1,7 +1,7 @@
 # Hi there, I'm Artem 👋 
 ## You are expirienced in php? Check my last project - [Asterisk notation for php arrays][asterisk]
 
-#### I'm a Backend Developer at Digitex.
+#### I'm a Lead Backend Developer at Digitex.
 > Previously: Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ MakeTop
 
 - 💻 I am currently working on [Blockster][blockster] project in Digitex
