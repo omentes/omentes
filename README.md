@@ -1,5 +1,5 @@
 # Hi there, I'm Artem 👋 
-## You are expirienced in php? Check my last project - [Asterisk notation for php arrays][asterisk]
+## Are you expirienced in php? Check my last project - [Asterisk notation for php arrays][asterisk]
 
 #### I'm a Lead Backend Developer at Digitex.
 > Previously: Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ MakeTop
