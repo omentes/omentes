@@ -2,10 +2,9 @@
 ##### Are you expirienced in php? Check my last php package - [Asterisk notation for php arrays][asterisk]
 ##### Are you expirienced in Laravel? Check my last Laravel package - [Auto-generated default messages for Laravel Validation][laravel-ag]
 
-#### I'm a Lead Backend Developer at Blockster.
-> Previously: Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ MakeTop
+#### I'm a Senior Backend Developer at NDA (Popular Social Media Company).
+> Previously: Lead Backend Developer @ Blockster, Backend Developer @ airSlate Inc, Backend Developer @ WalletFactory, PHP Developer @ MakeTop
 
-- 💻 I am currently working on [Blockster][blockster] project in Digitex
 - 👾 I love programming and automation. Even [my cv][cv] created with [Github Actions][cv_actions]
 - 🎱 I love creating telegram bots: [Asterios RB bot][asterios], [Repeat Word Bot][repeat], [Currency UA Bot][currency], [Emoji Experts][emoji]
 - 🇺🇦 I live in Kyiv, Ukraine
