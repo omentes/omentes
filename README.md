@@ -8,8 +8,9 @@
 - 👾 I love programming and automation. Even [my cv][cv] created with [Github Actions][cv_actions]
 - 🇺🇦 I live in Ukraine
 - 📝 Also I have Telegram Channel [@response418][channel] (Ukrainian)
+- 👁️ I'm co-owner [Charity Foundation "Let's see the Victory"][victory]
 - 🎓 Education: Software Architect @ Unit Factory (Ecole 42 Kyiv)
-
+  
 ### Connect With Me
 
 [<img align="left" alt="omentes | LinkedIn" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/linkedin.svg" />][linkedin]
@@ -34,3 +35,4 @@
 [twitter]: https://twitter.com/setnemo
 [dev]: https://dev.to/setnemo
 [icons]: https://github.com/setnemo/social-svg-icons
+[victory]: https://thevictory.org.ua/en
