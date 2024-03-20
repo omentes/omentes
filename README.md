@@ -14,10 +14,11 @@
   
 ### Connect With Me
 
-[<img align="left" alt="omentes | LinkedIn" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/linkedin.svg" />][linkedin]
-[<img align="left" alt="omentes | Telegram" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/telegram.svg" />][telegram]
+[<img align="left" alt="setnemo | LinkedIn" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/facebook.svg" />][facebook]
+[<img align="left" alt="setnemo | LinkedIn" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/linkedin.svg" />][linkedin]
+[<img align="left" alt="setnemo | Telegram" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/telegram.svg" />][telegram]
 [<img align="left" alt="setnemo | Twitter" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/twitter.svg" />][twitter]
-[<img align="left" alt="omentes | DEV" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/dev.svg" />][dev]
+[<img align="left" alt="setnemo | DEV" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/dev.svg" />][dev]
 
 
 ##
@@ -37,3 +38,4 @@
 [dev]: https://dev.to/setnemo
 [icons]: https://github.com/setnemo/social-svg-icons
 [victory]: https://thevictory.org.ua/en
+[facebook]: https://facebook.com/setnemo.online
