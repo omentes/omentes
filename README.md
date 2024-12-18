@@ -14,12 +14,7 @@
   
 ### Connect With Me
 
-[<img align="left" alt="setnemo | LinkedIn" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/facebook.svg" />][facebook]
 [<img align="left" alt="setnemo | LinkedIn" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/linkedin.svg" />][linkedin]
-[<img align="left" alt="setnemo | Telegram" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/telegram.svg" />][telegram]
-[<img align="left" alt="setnemo | Twitter" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/twitter.svg" />][twitter]
-[<img align="left" alt="setnemo | DEV" width="22px" src="https://raw.githubusercontent.com/setnemo/social-svg-icons/main/dev.svg" />][dev]
-
 
 ##
 #### Icons from [setnemo/social-svg-icons][icons]
@@ -33,9 +28,5 @@
 [cv_actions]: https://github.com/setnemo/cv/blob/main/.github/workflows/main.yml
 [channel]: https://t.me/response418
 [linkedin]: https://linkedin.com/in/setnemo
-[telegram]: https://t.me/setnemo
-[twitter]: https://twitter.com/setnemo
-[dev]: https://dev.to/setnemo
 [icons]: https://github.com/setnemo/social-svg-icons
 [victory]: https://thevictory.org.ua/en
-[facebook]: https://facebook.com/setnemo.online
